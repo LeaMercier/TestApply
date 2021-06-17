@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Apply Test</string>
+    <string name="test">Test</string>
+    <string name="ajoutAliment">Ajout ou suppression d\'aliments</string>
+    <string name="nom_aliment">nom de l\'aliment</string>
+    <string name="famille_aliment">famille de l\'aliment</string>
+    <string name="nom_aliment_liste">nom de l\'aliment : </string>
+    <string name="famille_aliment_liste">famille de l\'aliment : </string>
+    <string name="ajout_d_un_aliment">Ajout d\'un aliment</string>
+    <string name="suppression_d_un_aliment">Suppression d\'un aliment</string>
+    <string name="valider">Valider</string>
+</resources>
